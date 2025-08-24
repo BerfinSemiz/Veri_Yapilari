@@ -15,11 +15,9 @@ C++ ile tek yönlü ve çift yönlü bağlı liste işlemleri.
 ## 🚀 Çalıştırma
 
 ### Visual Studio
-1. `veri_yapilari_odevler.sln` dosyasını açın
+1. Herhangi bir .cpp dosyasını Visual Studio'da açın
 2. F5 ile çalıştırın
 
-### Tek Dosya Çalıştırma
-- Dosyaya sağ tıklayın → "Set as Startup Item" → F5
 
 ## 📁 Dosya Yapısı
 ```
@@ -28,8 +26,7 @@ C++ ile tek yönlü ve çift yönlü bağlı liste işlemleri.
 ├── soru3_birer_atlayarak_yazdirma.cpp
 ├── soru4_eleman_sayisi.cpp
 ├── soru5_tekrarlayan_silme.cpp
-├── README.md
-└── veri_yapilari_odevler.sln
+└── README.md
 ```
 
 ## 🔧 Özellikler
@@ -39,4 +36,4 @@ C++ ile tek yönlü ve çift yönlü bağlı liste işlemleri.
 - ✅ Visual Studio uyumlu
 
 ---
-**Ders:** Veri Yapıları | **Dil:** C++ | **IDE:** Visual Studio
+**Ders:** Veri Yapıları | **Dil:** C++ | **IDE:** Herhangi bir C++ IDE
