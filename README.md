@@ -17,6 +17,5 @@ C++ ile tek yönlü ve çift yönlü bağlı liste işlemleri.
 - ✅ Hata kontrolü ve bellek yönetimi
 - ✅ Kapsamlı test senaryoları
 
----
-**Ders:** Veri Yapıları | **Dil:** C++ | **IDE:** Herhangi bir C++ IDE
+
 
